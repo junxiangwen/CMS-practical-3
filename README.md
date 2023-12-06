@@ -20,6 +20,8 @@ I'd like to add an area for players to try out the games to be more appealing to
 ### Learning Activities & Resources
  Learn how to make a wordpress website
  * (https://www.youtube.com/watch?v=UT3No6nswz8&t=82s)
+ * (https://www.youtube.com/watch?v=yC6ZfIF-R9k&t=881s)
+ * (https://www.youtube.com/watch?v=AABmCvjd_iU&t=2s)
 
 
 ### Estimated hours
